@@ -8,8 +8,15 @@
 
 ## TODO List
 
-- [ ] Weather Plugin: Rewrite into Typescript
+- [ ] Weather Plugin
+  - [ ] Rewrite code into modern Typescript
+  - [ ] Populate CI features
 - [ ] Main Blog
+  - [ ] Cutting pages into components
+  - [ ] Add encryption feature
+- [ ] Encryption Plugin
+  - [ ] Add code
+  - [ ] Design a good template
 
 ## Links
 
